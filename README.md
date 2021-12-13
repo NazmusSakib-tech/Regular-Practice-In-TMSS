@@ -9,4 +9,7 @@
 // php artisan cache:forget spatie.permission.cache
 // php artisan cache:clear 
 
-// php artisan make:seeder ProductCategorySeeder
+// php artisan make:seeder ProductCategorySeeder -- for seeder making
+
+* php artisan make:factory PostFactory --for factory create in laravel
+
